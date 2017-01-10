@@ -1,5 +1,3 @@
--### Día 1: 09 Enero,2017. ###
-
--####  Comienzo desde 0 todo #####
-
--**Progreso de hoy**: Comienzo viendo tutoriales de htlm5 y css3,veo videos y creo la "plantilla".
+# Día 1: 09 Enero,2017.
+####  Comienzo desde 0 todo 
+**Progreso de hoy**: Comienzo viendo tutoriales de htlm5 y css3,veo videos y creo la "plantilla".
